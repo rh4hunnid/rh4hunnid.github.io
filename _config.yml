@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ryan Hanover"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ryan Hanover"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://rh4hunnid.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ryan Hanover"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "SWE @ Epsilon C5I/CS @ ASU"
+  location         : "Tempe, AZ"
+  employer         : "Arizona State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rh4@keemail.me" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
